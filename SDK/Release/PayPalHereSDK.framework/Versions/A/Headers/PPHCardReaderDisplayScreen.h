@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 /*!
  * PPHCardReaderDisplay represents LED display screen capabilities of a card reader device.
